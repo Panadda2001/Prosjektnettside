@@ -1,8 +1,8 @@
 /* For mobile phones: */
-[class*="main"] {
-	 width: 100%;
+[class*="col-"] {
+  width: 100%;
 }
-  
+
 @media only screen and (min-width: 600px) {
    /* For tablets: */
    main {width: 100%;}
